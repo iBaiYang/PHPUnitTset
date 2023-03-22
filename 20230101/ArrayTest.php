@@ -5,14 +5,14 @@ use PHPUnit\Framework\TestCase;
 class ArrayTest extends TestCase
 {
     //测试用例运行前初始化
-    public function setUp()
-    {
-    }
+//    public function setUp()
+//    {
+//    }
 
     //测试用例运行后执行
-    public function tearDown()
-    {
-    }
+//    public function tearDown()
+//    {
+//    }
 
     /**
      * @test
