@@ -14,6 +14,10 @@ PHPUnit测试实例，包含各设计模式
 
 ### 行为型模式
 
+#### 迭代器模式（Iterator）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Iterator\Tests
+
 #### 空对象模式（Null Object）
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\NullObject\Tests
