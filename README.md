@@ -21,7 +21,9 @@ PHPUnit测试实例，包含各设计模式
 
 ### 创建型模式
 
+#### 对象池模式（Object Pool）
 
+> vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
 
 ### 结构型模式
 
