@@ -22,6 +22,9 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\NullObject\Tests
 
+#### 观察者模式（Observer）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Observer\Tests
 
 ### 创建型模式
 
