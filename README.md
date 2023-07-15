@@ -42,6 +42,10 @@ PHPUnit测试实例，包含各设计模式
 
 ### 结构型模式
 
+#### 门面模式（Facade）
+
+> vendor\bin\phpunit DesignPatterns\Structural\Facade\Tests
+
 #### 享元模式（Flyweight）
 
 > vendor\bin\phpunit DesignPatterns\Structural\Flyweight\Tests
