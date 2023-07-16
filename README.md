@@ -58,6 +58,8 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Registry\Tests
 
+### 其他模式
 
+#### 委托模式（Delegation）
 
-
+> vendor\bin\phpunit DesignPatterns\More\Delegation\Tests
