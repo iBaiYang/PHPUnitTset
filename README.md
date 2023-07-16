@@ -32,6 +32,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Facade\Tests
 
+#### 代理模式（Proxy）
+
+> vendor\bin\phpunit DesignPatterns\Structural\Proxy\Tests
+
 #### 享元模式（Flyweight）
 
 > vendor\bin\phpunit DesignPatterns\Structural\Flyweight\Tests
