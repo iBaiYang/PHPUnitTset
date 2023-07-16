@@ -42,6 +42,10 @@ PHPUnit测试实例，包含各设计模式
 
 ### 结构型模式
 
+#### 装饰器模式（Decorator）
+
+> vendor\bin\phpunit DesignPatterns\Structural\Decorator\Tests
+
 #### 门面模式（Facade）
 
 > vendor\bin\phpunit DesignPatterns\Structural\Facade\Tests
