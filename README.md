@@ -24,6 +24,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Adapter\Tests
 
+#### 数据映射模式（Data Mapper）
+
+> vendor\bin\phpunit DesignPatterns\Structural\DataMapper\Tests
+
 #### 装饰器模式（Decorator）
 
 > vendor\bin\phpunit DesignPatterns\Structural\Decorator\Tests
