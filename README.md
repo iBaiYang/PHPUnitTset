@@ -76,5 +76,9 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\More\Delegation\Tests
 
+#### 资源库模式（Repository）
+
+> vendor\bin\phpunit DesignPatterns\More\Repository\Tests
+
 
 
