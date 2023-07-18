@@ -50,6 +50,10 @@ PHPUnit测试实例，包含各设计模式
 
 ### 行为型模式
 
+#### 责任链模式（Chain Of Responsibilities）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\ChainOfResponsibilities\Tests
+
 #### 命令模式（Command）
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\Command\Tests
