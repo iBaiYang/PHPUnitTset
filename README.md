@@ -74,6 +74,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\Observer\Tests
 
+#### 状态模式（State）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\State\Tests
+
 ### 其他模式
 
 #### 委托模式（Delegation）
