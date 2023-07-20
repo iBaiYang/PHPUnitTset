@@ -36,6 +36,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Facade\Tests
 
+#### 流接口模式（Fluent Interface）
+
+> vendor\bin\phpunit DesignPatterns\Structural\FluentInterface\Tests
+
 #### 代理模式（Proxy）
 
 > vendor\bin\phpunit DesignPatterns\Structural\Proxy\Tests
