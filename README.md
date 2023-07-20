@@ -2,6 +2,9 @@
 
 PHPUnit测试实例，包含各设计模式 
 
+使用 composer 方式安装 PHPUnit：
+> composer require phpunit/phpunit ^7
+
 ## 示例命令
 
 > php vendor\bin\phpunit 20230101/ArrayTest.php
