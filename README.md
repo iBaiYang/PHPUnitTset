@@ -95,5 +95,9 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\More\Repository\Tests
 
+#### 服务定位器模式(Service Locator)
+
+> vendor\bin\phpunit DesignPatterns\More\ServiceLocator\Tests
+
 
 
