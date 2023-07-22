@@ -89,6 +89,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\TemplateMethod\Tests
 
+#### 访问者模式（Visitor）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Visitor\Tests
+
 ### 其他模式
 
 #### 委托模式（Delegation）
