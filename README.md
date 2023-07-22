@@ -85,6 +85,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\State\Tests
 
+#### 模板方法模式（Template Method）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\TemplateMethod\Tests
+
 ### 其他模式
 
 #### 委托模式（Delegation）
