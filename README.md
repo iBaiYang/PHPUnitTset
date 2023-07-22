@@ -93,6 +93,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\Visitor\Tests
 
+#### 解释器模式（Interpreter）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Interpreter\Tests
+
 ### 其他模式
 
 #### 委托模式（Delegation）
