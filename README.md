@@ -81,6 +81,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\Observer\Tests
 
+#### 规格模式（Specification）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Specification\Tests
+
 #### 状态模式（State）
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\State\Tests
