@@ -73,6 +73,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\Mediator\Tests
 
+#### 备忘录模式（Memento）
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Memento\Tests
+
 #### 空对象模式（Null Object）
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\NullObject\Tests
