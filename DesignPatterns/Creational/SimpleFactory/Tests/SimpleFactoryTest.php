@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\SimpleFactory\Tests;
 
-require_once __DIR__ . '/../ConcreteFactoryphp';
+require_once __DIR__ . '/../ConcreteFactory.php';
 
 use DesignPatterns\Creational\SimpleFactory\ConcreteFactory;
 use PHPUnit\Framework\TestCase;

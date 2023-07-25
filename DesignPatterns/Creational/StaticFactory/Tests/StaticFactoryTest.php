@@ -2,7 +2,7 @@
 
 namespace DesignPatterns\Creational\StaticFactory\Tests;
 
-require_once __DIR__ . '/../StaticFactory';
+require_once __DIR__ . '/../StaticFactory.php';
 
 use DesignPatterns\Creational\StaticFactory\StaticFactory;
 use PHPUnit\Framework\TestCase;
