@@ -29,6 +29,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Creational\FactoryMethod\Tests
 
+#### 抽象工厂模式(Abstract Factory)
+
+> vendor\bin\phpunit DesignPatterns\Creational\AbstractFactory\Tests
+
 #### 对象池模式（Object Pool）
 
 > vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
