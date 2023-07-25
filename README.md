@@ -17,6 +17,10 @@ PHPUnit测试实例，包含各设计模式
 
 ### 创建型模式
 
+#### 简单工厂模式(Simple Factory)
+
+> vendor\bin\phpunit DesignPatterns\Creational\SimpleFactory\Tests
+
 #### 对象池模式（Object Pool）
 
 > vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
