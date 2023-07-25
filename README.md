@@ -21,6 +21,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Creational\SimpleFactory\Tests
 
+#### 静态工厂模式（Static Factory）
+
+> vendor\bin\phpunit DesignPatterns\Creational\StaticFactory\Tests
+
 #### 对象池模式（Object Pool）
 
 > vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
