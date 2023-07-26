@@ -33,6 +33,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Creational\AbstractFactory\Tests
 
+#### 建造者模式(Builder)
+
+> vendor\bin\phpunit DesignPatterns\Creational\Builder\Tests
+
 #### 对象池模式（Object Pool）
 
 > vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
