@@ -37,6 +37,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Creational\Builder\Tests
 
+#### 单例模式(Singleton)
+
+> vendor\bin\phpunit DesignPatterns\Creational\Singleton\Tests
+
 #### 对象池模式（Object Pool）
 
 > vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
