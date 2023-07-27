@@ -41,6 +41,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Creational\Singleton\Tests
 
+#### 多例模式（Multiton）
+
+> vendor\bin\phpunit DesignPatterns\Creational\Multiton\Tests
+
 #### 对象池模式（Object Pool）
 
 > vendor\bin\phpunit DesignPatterns\Creational\ObjectPool\Tests
