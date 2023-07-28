@@ -59,7 +59,9 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Adapter\Tests
 
+#### 桥接模式(Bridge)
 
+> vendor\bin\phpunit DesignPatterns\Structural\Bridge\Tests
 
 #### 组合模式（Composite）
 
