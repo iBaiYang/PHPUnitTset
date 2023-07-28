@@ -67,6 +67,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Decorator\Tests
 
+#### 依赖注入(Dependence Injection)
+
+> vendor\bin\phpunit DesignPatterns\Structural\DependencyInjection\Tests
+
 #### 门面模式（Facade）
 
 > vendor\bin\phpunit DesignPatterns\Structural\Facade\Tests
