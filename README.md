@@ -59,6 +59,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Structural\Adapter\Tests
 
+#### 组合模式（Composite）
+
+> vendor\bin\phpunit DesignPatterns\Structural\Composite\Tests
+
 #### 数据映射模式（Data Mapper）
 
 > vendor\bin\phpunit DesignPatterns\Structural\DataMapper\Tests
