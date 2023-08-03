@@ -137,6 +137,10 @@ PHPUnit测试实例，包含各设计模式
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\State\Tests
 
+#### 策略模式(Strategy)
+
+> vendor\bin\phpunit DesignPatterns\Behavioral\Strategy\Tests
+
 #### 模板方法模式（Template Method）
 
 > vendor\bin\phpunit DesignPatterns\Behavioral\TemplateMethod\Tests
